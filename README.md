@@ -87,6 +87,8 @@ The dashboard supports:
 ## Dashboard Screenshots
 
 > Add screenshots of your dashboard here.
+<img width="640" height="362" alt="image" src="https://github.com/user-attachments/assets/a0317b98-1bd8-4be8-a4d6-8fa71d07fb88" />
+<img width="473" height="294" alt="image" src="https://github.com/user-attachments/assets/f2ea5400-fc79-4b3b-a72a-0183907b18d4" />
 
 Example:
 ```md
